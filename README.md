@@ -1,4 +1,4 @@
-# Wikipedia-Article-Classification-using-Regression
+# Wikipedia-Article-Classification
 
 This project involves creating a binary classification model to classify Wikipedia articles as featured and non-featured. 
 The project involves data extraction, feature engineering, and model building using Python's Wikipedia API.
