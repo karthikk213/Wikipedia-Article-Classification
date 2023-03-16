@@ -12,11 +12,11 @@ To create the features for each article, the Wikipedia API was used to extract r
 ### Model Building:
 Different machine learning models were built to classify the articles as featured and non-featured. Random Forest, SVM, and Logistic Regression models were trained on the dataset. The models were evaluated on the basis of accuracy, precision, recall, and F1 score. Random Forest gave the best accuracy of 93.7%. SVM gave an accuracy of 92.46% and Logistic Regression gave an accuracy of 91.29%.
 
-Conclusion:
+### Conclusion:
 The project successfully created a binary classification model to classify Wikipedia articles as featured and non-featured. The project involved data extraction, feature engineering, and model building using Python's Wikipedia API. The models were evaluated on the basis of accuracy, precision, recall, and F1 score. Random Forest gave the best accuracy of 93.7%.
 Though, it is Regression project, Logistic regression shown 91.29% and SVM shown 92.46% , little bit better than Logistic.
 
-Learning Outcomes :
+### Learning Outcomes :
  * Wikipedia API
  * Basics of SPacy and nltk
  * Data Preprocessing techniques
